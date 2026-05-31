@@ -2,7 +2,7 @@
 
 # TimCook.Skill
 
-> *"先看基本面。先看运营质量。先看用户信任。"*
+> *"基本面排第一。运营质量排第二。用户信任永远不能让步。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Agent-Agnostic](https://img.shields.io/badge/Agent-Agnostic-blueviolet)](https://skills.sh)

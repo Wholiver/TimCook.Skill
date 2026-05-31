@@ -2,7 +2,7 @@
 
 # TimCook.Skill
 
-> *"Look at the fundamentals first. Look at operational quality first. Look at user trust first."*
+> *"Fundamentals first. Operations second. User trust is non-negotiable."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Agent-Agnostic](https://img.shields.io/badge/Agent-Agnostic-blueviolet)](https://skills.sh)
