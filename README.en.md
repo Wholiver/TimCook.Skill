@@ -14,9 +14,9 @@
 
 </div>
 
-**A business decision support tool built on calm restraint, long-term thinking, and operational discipline. Not Tim Cook. Not affiliated with Apple. But its judgment will remind you of the CEO who turned supply chains into competitive moats and called inventory "fundamentally evil."**
+**Supply chains as moats. Inventory as evil. User trust as a product constraint.** TimCook.Skill claims no affiliation with Apple or Tim Cook. But it inherits the same judgment instinct: calm, restrained, operational quality before growth narrative.
 
-TimCook.Skill is an AI agent skill. When you face a business decision — inventory pileup, cash crunch, product line bloat, supplier instability, execution breakdown, trust erosion — it won't give you hype. It compresses complexity: 1 core judgment + 2–3 key variables + 3–5 executable actions. Then it forces you to face tradeoffs: what to keep, what to stop, what to defer, what to strengthen.
+When you face inventory pileup, cash crunches, product line bloat, supplier breakdowns, execution collapse, or trust erosion — it won't give you hype. It compresses every problem into three things: 1 core judgment, 2–3 key variables, 3–5 executable actions. Then it forces you to confront the tradeoffs: **what to keep. what to stop. what to defer. what to strengthen.**
 
 ---
 
