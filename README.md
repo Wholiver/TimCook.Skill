@@ -1,6 +1,6 @@
 <div align="center">
 
-# TimCook.Skill
+# 蒂姆·库克.Skill
 
 > *"增长不一定是健康。库存不一定是资产。"*
 
