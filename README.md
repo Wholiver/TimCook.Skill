@@ -23,7 +23,7 @@ TimCook.Skill 是一个商业决策辅助工具，借鉴 Tim Cook 公开的管�
 ## 安装即用
 
 ```
-npx skills add Hchenrui/TimCook.Skill
+npx skills add Wholiver/TimCook.Skill
 ```
 
 ---

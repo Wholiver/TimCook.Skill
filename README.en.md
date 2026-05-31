@@ -23,7 +23,7 @@ This skill won't tell you to go big, disrupt the industry, or move fast and brea
 ## Install
 
 ```
-npx skills add Hchenrui/TimCook.Skill
+npx skills add Wholiver/TimCook.Skill
 ```
 
 ---
