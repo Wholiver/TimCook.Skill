@@ -14,9 +14,7 @@
 
 </div>
 
-**Supply chains as moats. Inventory as evil. User trust as a product constraint.** TimCook.Skill claims no affiliation with Apple or Tim Cook. But it inherits the same judgment instinct: calm, restrained, operational quality before growth narrative.
-
-When you face inventory pileup, cash crunches, product line bloat, supplier breakdowns, execution collapse, or trust erosion — it won't give you hype. It compresses every problem into three things: 1 core judgment, 2–3 key variables, 3–5 executable actions. Then it forces you to confront the tradeoffs: **what to keep. what to stop. what to defer. what to strengthen.**
+A business decision support skill inspired by Tim Cook's public management approach. Not affiliated with Apple or Tim Cook. When facing inventory pileups, cash crunches, product bloat, execution breakdowns, or trust erosion — it won't give you hype. It compresses the problem, forces tradeoffs, and lands on execution.
 
 ---
 
