@@ -1,3 +1,5 @@
+<div align="center">
+
 # TimCook.Skill
 
 > *"Look at the fundamentals first. Look at operational quality first. Look at user trust first."*
@@ -9,6 +11,8 @@
 [![7 Files](https://img.shields.io/badge/7-Files-8A2BE2)](.)
 
 [![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-red?style=flat-square)](./README.md)
+
+</div>
 
 **A business decision support tool built on calm restraint, long-term thinking, and operational discipline. Not Tim Cook. Not affiliated with Apple. But its judgment will remind you of the CEO who turned supply chains into competitive moats and called inventory "fundamentally evil."**
 

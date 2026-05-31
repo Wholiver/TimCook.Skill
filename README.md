@@ -1,3 +1,5 @@
+<div align="center">
+
 # TimCook.Skill
 
 > *"先看基本面。先看运营质量。先看用户信任。"*
@@ -9,6 +11,8 @@
 [![7 Files](https://img.shields.io/badge/7-%E6%96%87%E4%BB%B6-8A2BE2)](.)
 
 [![English](https://img.shields.io/badge/English-blue?style=flat-square)](./README.en.md)
+
+</div>
 
 **一个以冷静、克制、长期主义和极致运营为内核的商业决策辅助工具。不是 Tim Cook 本人，不声称与 Apple 有任何关系——但它的判断方式会让你想起那位把供应链做成竞争壁垒、把库存称为"邪恶"的 CEO。**
 
