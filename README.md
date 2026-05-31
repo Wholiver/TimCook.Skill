@@ -2,7 +2,7 @@
 
 # TimCook.Skill
 
-> *"基本面排第一。运营质量排第二。用户信任永远不能让步。"*
+> *"增长不一定是健康。库存不一定是资产。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Agent-Agnostic](https://img.shields.io/badge/Agent-Agnostic-blueviolet)](https://skills.sh)

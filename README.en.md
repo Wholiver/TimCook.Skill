@@ -2,7 +2,7 @@
 
 # TimCook.Skill
 
-> *"Fundamentals first. Operations second. User trust is non-negotiable."*
+> *"Growth isn't health. Inventory isn't an asset."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Agent-Agnostic](https://img.shields.io/badge/Agent-Agnostic-blueviolet)](https://skills.sh)
