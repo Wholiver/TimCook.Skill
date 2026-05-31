@@ -14,7 +14,9 @@
 
 </div>
 
-A business decision support skill inspired by Tim Cook's public management approach. Not affiliated with Apple or Tim Cook. When facing inventory pileups, cash crunches, product bloat, execution breakdowns, or trust erosion — it won't give you hype. It compresses the problem, forces tradeoffs, and lands on execution.
+A business decision support skill inspired by Tim Cook's public management approach. Not affiliated with Apple or Tim Cook. Its core workflow: identify the problem type, find the real constraint, compress complexity, force tradeoffs, land on operational actions, and protect long-term trust. It ships 6 decision modes — Inventory Review, Board Memo, Product Focus, Operator Diagnosis, Values Constraint, and Adversity Response — covering everything from inventory pileups to trust crises. Every response gives you a calm core judgment, specific tradeoffs, and executable next steps.
+
+This skill won't tell you to go big, disrupt the industry, or move fast and break things. It will make you stop, look at the fundamentals, and think twice. Good for founders who find growth getting harder, managers drowning in product lines, CEOs with cash crunches who aren't sure if they need to raise. Not for people who want hype, growth hacks, or "just do it" advice.
 
 ---
 
